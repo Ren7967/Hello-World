@@ -1,3 +1,3 @@
-# Hello-World
-Trial.1
-Rule 3
+Announcement to All
+This is only a Trial
+by: Renchan lolol
